@@ -1,0 +1,28 @@
+{
+  "dataset": [
+    {
+      "quote":"xyz1",
+      "author":"abc1",
+      "year":1901,
+      "photo":"/photo.jpg"
+    },
+    {
+      "quote":"xyz2",
+      "author":"abc2",
+      "year":1902,
+      "photo":"/photo.jpg"
+    },
+    {
+      "quote":"xyz3",
+      "author":"abc3",
+      "year":1903,
+      "photo":"/photo.jpg"
+    },
+    {
+      "quote":"xyz4",
+      "author":"abc4",
+      "year":1904,
+      "photo":"/photo.jpg"
+    }
+  ]
+}
